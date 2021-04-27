@@ -15,6 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.wipro.springBootPreRequisite.entity.TrainingDetails;
 import com.wipro.springBootPreRequisite.repository.TrainingDetailsRepository;
 
+// some changes in here to see where changes are made.
+
 @RestController
 @RequestMapping("/admin")
 public class AdminRestController {
